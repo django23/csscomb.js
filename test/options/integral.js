@@ -5,7 +5,7 @@ describe('integral test', function() {
         this.filename = __filename;
     });
 
-    it.skip('Process result must be equal to expected.css', function() {
+    it('Process result must be equal to expected.css', function() {
         var config = this.comb.getConfig('csscomb');
         this.comb.configure(config);
         this.shouldBeEqual('integral.css', 'integral.expected.css');
