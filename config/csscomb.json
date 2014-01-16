@@ -12,6 +12,7 @@
     "leading-zero": false,
     "quotes": "single",
     "remove-empty-rulesets": true,
+    "space-before-colon": "",
     "strip-spaces": true,
     "unitless-zero": true,
     "vendor-prefix-align": true,
