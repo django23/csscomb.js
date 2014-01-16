@@ -15,6 +15,7 @@
     "space-before-colon": "",
     "space-after-colon": " ",
     "space-before-combinator": " ",
+    "space-after-combinator": " ",
     "strip-spaces": true,
     "unitless-zero": true,
     "vendor-prefix-align": true,
